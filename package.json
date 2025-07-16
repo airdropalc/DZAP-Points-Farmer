@@ -1,0 +1,44 @@
+{
+  "name": "dzap-points-farmer",
+  "version": "1.0.1",
+  "private": true,
+  "description": "An automated bot to farm points on the DZAP platform via ETH/USDC swaps on the Base chain.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "node -e 'require(\"./config/setup.js\").checkAndSetupConfiguration()'",
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "dzap",
+    "airdrop",
+    "bot",
+    "farming",
+    "points",
+    "ethers",
+    "base-chain",
+    "crypto"
+  ],
+  "author": {
+    "name": "ReRowet | AirdropALC",
+    "url": "https://github.com/airdropalc"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airdropalc/DZAP-Points-Farmer"
+  },
+  "bugs": {
+    "url": "https://github.com/airdropalc/DZAP-Points-Farmer/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1",
+    "https-proxy-agent": "^7.0.5"
+  }
+}
