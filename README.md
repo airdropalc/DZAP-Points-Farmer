@@ -39,7 +39,7 @@ If you haven't registered on DZAP yet, you can do so through the official platfo
 ### Step 1: Clone the Repository
 Download the project files to your machine and navigate into the main folder.
 ```bash
-git clone [https://github.com/airdropalc/DZAP-Points-Farmer.git](https://github.com/airdropalc/DZAP-Points-Farmer.git)
+git clone https://github.com/airdropalc/DZAP-Points-Farmer.git
 cd DZAP-Points-Farmer
 ```
 
