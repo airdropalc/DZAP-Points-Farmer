@@ -4,7 +4,7 @@ An automated script designed to farm points on the DZAP platform by performing s
 
 If you haven't registered on DZAP yet, you can do so through the official platform.
 
-<a href="https://app.dzap.io/_next/static/media/dzap-full-icon.44450536.svg" target="_blank"><img src="https://app.dzap.io/?referral=49189b2A" alt="DZAP Registration Banner"></a>
+<a href="https://app.dzap.io/?referral=49189b2A" target="_blank"><img src="https://app.dzap.io/_next/static/media/dzap-full-icon.44450536.svg" alt="DZAP Registration Banner"></a>
 
 [![Telegram](https://img.shields.io/badge/Community-Airdrop_ALC-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/airdropalc/2779)
 
